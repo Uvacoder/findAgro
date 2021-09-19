@@ -9,9 +9,26 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@uppy/core": "^2.0.2",
+    "@uppy/react": "^2.0.2",
+    "axios": "^0.21.4",
+    "bcryptjs": "^2.4.3",
+    "comma-number": "^2.1.0",
+    "copy-to-clipboard": "^3.3.1",
+    "filestack-js": "^3.24.1",
+    "js-cookie": "^3.0.1",
+    "loadjs": "^4.2.0",
+    "lodash": "^4.17.21",
+    "minisearch": "^3.1.0",
+    "nanoid": "^3.1.25",
     "next": "11.1.2",
+    "pouchdb": "^7.2.2",
+    "pouchdb-find": "^7.2.2",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-alice-carousel": "^2.5.1",
+    "react-dom": "17.0.2",
+    "react-hot-toast": "^2.1.1",
+    "validator": "^13.6.0"
   },
   "devDependencies": {
     "eslint": "7.32.0",
